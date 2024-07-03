@@ -1,0 +1,14 @@
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/bin/Debug/net8.0/Program-W01-H03
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/bin/Debug/net8.0/Program-W01-H03.deps.json
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/bin/Debug/net8.0/Program-W01-H03.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/bin/Debug/net8.0/Program-W01-H03.dll
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/bin/Debug/net8.0/Program-W01-H03.pdb
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/Program-W01-H03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/Program-W01-H03.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/Program-W01-H03.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/Program-W01-H03.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/Program-W01-H03.dll
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/refint/Program-W01-H03.dll
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/Program-W01-H03.pdb
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/Program-W01-H03.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/TestC#/Test/Program-W01-H03/obj/Debug/net8.0/ref/Program-W01-H03.dll
