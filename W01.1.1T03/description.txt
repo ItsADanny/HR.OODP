@@ -1,0 +1,24 @@
+Learning goals:
+
+* reading doubles from the console
+    o Note: depending on your system settings, you need to use either a period . or a comma ,
+* operator precedence
+* implicit conversion (int to string)
+* implicit conversion (int to double)
+* explicit conversion (double to int)
+* explicit conversion (string to double). You can use for example:
+    o Convert.ToDouble()
+    o double.Parse()
+    o double.TryParse()
+
+Write a program that asks the user for a temperature in Celsius. 
+Convert this to Fahrenheit by multiplying by 1.8 and adding 32; 
+then print the result. Also print the truncated result.
+
+For example:
+----------------------------------------------------------------------------
+What is the temperature in Celsius?
+>97
+97 C = 206.6 F
+Truncated that is 206 F
+----------------------------------------------------------------------------

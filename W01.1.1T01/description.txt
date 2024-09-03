@@ -1,0 +1,20 @@
+Learning goals:
+
+* Console.ReadLine()
+* string
+* char
+* string to char conversion (you can use Convert.ToChar())
+* string concatenation (you can simply use +)
+
+Write a program that asks the user for their last name (string) 
+and the initial of their first name (char). 
+Then print a greeting with their initial and last name.
+
+For example:
+----------------------------------------------------------------------------
+Hello. Please enter your last name.
+>Doe
+What is the initial of your first name?
+>J
+Welcome to the course, J Doe. We will watch your career with great interest.
+----------------------------------------------------------------------------
