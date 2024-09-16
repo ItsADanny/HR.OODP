@@ -1,0 +1,13 @@
+Note: you MUST use a nested for-loop to solve this assignment.
+
+Draw a representation of a particular type of game board. A game board has a size (of at least 2) that's the same for both the height and the width, and consists of (B)lack and (W)hite squares, with the bottom left square always being black. For example, a chess board has a size of 8 and will look like this:
+
+WBWBWBWB
+BWBWBWBW
+WBWBWBWB
+BWBWBWBW
+WBWBWBWB
+BWBWBWBW
+WBWBWBWB
+BWBWBWBW
+Ask the user the size they want the board to be (and keep asking if it's lower than 2!), and print the board.

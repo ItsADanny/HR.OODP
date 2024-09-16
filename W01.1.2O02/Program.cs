@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿double discount = 0.1;
+double price = 55;
+double discountPrice = price - (price * discount);
 
-Console.WriteLine("Hello, World!");
+string message = $"The discount price is {discountPrice}";
+Console.WriteLine(message);

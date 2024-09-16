@@ -8,7 +8,7 @@ Console.WriteLine("You are " + int32_age.ToString() + ". That's old enough to pr
 Console.WriteLine("Last year you were " + (int32_age - 1));
 Console.WriteLine("Next year you will be " + (int32_age + 1));
 Console.WriteLine("At double your age you will be " + (int32_age * 2));
-Console.WriteLine("Next year, double your age will be " + ((int32_age * 2) + 1));
+Console.WriteLine("Next year, double your age will be " + ((int32_age + 1) * 2));
 
 Console.WriteLine("Half your age is " + (double_age / 2.0));
 Console.WriteLine("Half your age (rounded down) is " + (int32_age / 2));

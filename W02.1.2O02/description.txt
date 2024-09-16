@@ -1,0 +1,8 @@
+The assignment is a teaser for next week's Mini Project. 
+It consists of multiple cs files, but you will only need to work in Program.cs.
+The challenge in this assignment is that you will need to work with objects, 
+which you haven't yet seen in this course, but you have worked with in Python.
+==============================================================================================================
+The above is no longer true. Sorry for being rubbish. :)
+
+See Program.cs for specific instructions on what to do.

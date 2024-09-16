@@ -1,0 +1,44 @@
+Learning goals:
+
+* while-loops
+
+You will bring 4 Euros (int) to a fair. Then while you still have money, you will either:
+
+1. look around (costs nothing): print Yay!
+2. go in a ride (costs 1 Euro): print Wheee!
+
+(any other choice can be ignored)
+
+When out of money, print Time to go home
+
+Example output:
+----------------------------------------------------------------------------
+Money left: 4
+Look around (1) or go in a ride (2)?
+>2
+Wheee!
+Money left: 3
+Look around (1) or go in a ride (2)?
+>1
+Yay!
+Money left: 3
+Look around (1) or go in a ride (2)?
+>5
+Money left: 3
+Look around (1) or go in a ride (2)?
+>2
+Wheee!
+Money left: 2
+Look around (1) or go in a ride (2)?
+>2
+Wheee!
+Money left: 1
+Look around (1) or go in a ride (2)?
+>1
+Yay!
+Money left: 1
+Look around (1) or go in a ride (2)?
+>2
+Wheee!
+Time to go home
+----------------------------------------------------------------------------
