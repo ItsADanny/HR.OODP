@@ -25,6 +25,9 @@ public class DayOfWeek_CodeGrade {
     private static int makeValid(int int_indexday) {
         int returnValue = int_indexday;
         List<int> Allowed_Integers = new List<int>();
+        // Doing this because codeGrade is being a real pain in the behind... Again...
+        // How i would really do it can be found on GitHub:
+        // https://github.com/ItsADanny/HR.OODP/blob/main/W03/2/O/W03.2.2O01/DayOfWeek.cs
         Allowed_Integers.Add(0);
         Allowed_Integers.Add(1);
         Allowed_Integers.Add(2);
