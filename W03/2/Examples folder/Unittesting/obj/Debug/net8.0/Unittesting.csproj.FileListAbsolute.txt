@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/bin/Debug/net8.0/Unittesting
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/bin/Debug/net8.0/Unittesting.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/bin/Debug/net8.0/Unittesting.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/bin/Debug/net8.0/Unittesting.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/bin/Debug/net8.0/Unittesting.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/refint/Unittesting.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/Unittesting.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/2/Examples folder/Unittesting/obj/Debug/net8.0/ref/Unittesting.dll
