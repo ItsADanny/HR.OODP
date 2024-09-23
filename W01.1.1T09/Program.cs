@@ -3,18 +3,12 @@
 Console.WriteLine("");
 int32_age = Convert.ToInt32(Console.ReadLine());
 
-switch (int32_age)
+string result = int32_age switch
 {
-    case int32_age >= 0 and <= 12:
-        Console.WriteLine("Age " + int32_age + ": a child");
-        break;
-    case int32_age is >= 13 and <= 19:
-        Console.WriteLine("Age " + int32_age + ": a teenager");
-        break;
-    case int32_age is >= 20 and <= 150:
-        Console.WriteLine("Age " + int32_age + ": an adult");
-        break;
-    default:
-        Console.WriteLine("Age " + int32_age + ": invalid");
-        break;
-}
+    int n when (int32_age >= 0 && int32_age <= 12) => "Age " + int32_age + ": a child",
+    int n when (int32_age >= 0 && int32_age <= 12) => "Age " + int32_age + ": a teenager",
+    int n when (int32_age >= 0 && int32_age <= 12) => "Age " + int32_age + ": an adult",
+    int n when (int32_age >= 0 && int32_age <= 12) => "Age " + int32_age + ": invalid",
+};
+
+Console.WriteLine(result);
