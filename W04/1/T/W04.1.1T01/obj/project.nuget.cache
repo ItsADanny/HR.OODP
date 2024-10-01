@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Kig0TerZEo=",
+  "success": true,
+  "projectFilePath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W04/1/T/W04.1.1T01/W04.1.1T01.csproj",
+  "expectedPackageFiles": [
+    "/Users/dannydesnoo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
