@@ -1,47 +1,57 @@
-﻿int int_score = 0;
+﻿//First we make a variable which will keep the score
+int int_score = 0;
 
-int_score += ask_question(["Which of the following is NOT a valid type in C#?"], ["A: bool", "B: int", "C: var", "D: string"], ["c"]);
-int_score += ask_question(["What happens if you execute the following line C#?", "int x = 1.23;"], ["A: x will be 1.23", "B: x will be 1", "C: x will be 1.0", "D: you will get a compiler error"], ["d"]);
-int_score += ask_question(["Consider the following line:", "double d = 1.23;", "What are TWO ways to convert variable d to an int?"], ["A: int i = (int)d;", "B: int i = int(d)", "C: int i = 0 + d", "D: int i = Convert.ToInt32(d)"], ["a", "d"]);
+//Then we print a starting message
+Console.WriteLine("Answer the following MCQs:");
 
+//First question
+//===========================================================================================
+//we ask question 1
+Console.WriteLine("Which of the following is NOT a valid type in C#?");
+//Then we print the possible awnsers for Question 1
+Console.WriteLine("A: bool\nB: int\nC: var\nD: string");
+//We then request an input from the user
+string str_awnserOne = Console.ReadLine();
+// Then we check if the awnser was correct, if so then we increase the users score by 1
+if (str_awnserOne.ToLower() == "c") {
+    int_score++;
+}
+
+//Second question
+//===========================================================================================
+//we ask question 2
+Console.WriteLine("What happens if you execute the following line C#?\nint x = 1.23;");
+//Then we print the possible awnsers for Question 2
+Console.WriteLine("A: x will be 1.23\nB: x will be 1\nC: x will be 1.0\nD: you will get a compiler error");
+//We then request an input from the user
+string str_awnserTwo = Console.ReadLine();
+// Then we check if the awnser was correct, if so then we increase the users score by 1
+if (str_awnserTwo.ToLower() == "d") {
+    int_score++;
+}
+
+//Third question
+//===========================================================================================
+//we ask question 3
+Console.WriteLine("Consider the following line:\ndouble d = 1.23;\nWhat are TWO ways to convert variable d to an int?");
+//Then we print the possible awnsers for Question 3
+Console.WriteLine("A: int i = (int)d;\nB: int i = int(d)\nC: int i = 0 + d\nD: int i = Convert.ToInt32(d)");
+//We print that we would like the users first awnser
+Console.WriteLine("Your first answer:");
+//We then request our first input from the user
+string str_awnserThree_reqOne = Console.ReadLine();
+//We print that we would like the users second awnser
+Console.WriteLine("Your second answer:");
+//We then request our second input from the user
+string str_awnserThree_reqTwo = Console.ReadLine();
+// Then we check if the awnsers were correct, if so then we increase the users score by 1
+if (str_awnserThree_reqOne.ToLower() == "a" & str_awnserThree_reqTwo.ToLower() == "d" | str_awnserThree_reqOne.ToLower() == "d" & str_awnserThree_reqTwo.ToLower() == "a") {
+    int_score++;
+}
+
+//Now we check what the player has scored and print the appriopriate line
 if (int_score == 3) {
     Console.WriteLine($"Your score: {int_score} out of 3. Well done!");
 } else {
     Console.WriteLine($"Your score: {int_score} out of 3.");
-}
-
-int ask_question(List<string> ls_str_question, List<string> ls_str_possible_awnsers, List<string> correct_awnsers) {
-    foreach (string str_line in ls_str_question) {
-        Console.WriteLine(str_line);
-    }
-    foreach (string str_possible_awnser in ls_str_possible_awnsers) {
-        Console.WriteLine(str_possible_awnser);
-    }
-
-    if (correct_awnsers.Count() > 1) {
-        Console.WriteLine("Your first answer:");
-        string str_choice_one = Console.ReadLine().ToLower();
-        Console.WriteLine("Your second answer:");
-        string str_choice_two = Console.ReadLine().ToLower();
-        int both_correct = 0;
-        if (str_choice_one == correct_awnsers[0]) {
-            both_correct++;
-        }
-        if (str_choice_two == correct_awnsers[1]) {
-            both_correct++;
-        }
-
-        if (both_correct == 2) {
-            return 1;
-        } else {
-            return 0;
-        }
-    } else {
-        string str_choice = Console.ReadLine().ToLower();
-        if (str_choice == correct_awnsers[0]) {
-            return 1;
-        } else {
-            return 0;
-        }
-    }
 }
