@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "W02.1.2O01/1.0.0": {
+        "runtime": {
+          "W02.1.2O01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W02.1.2O01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

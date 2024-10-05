@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/bin/Debug/net8.0/W01.2.2O07
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/bin/Debug/net8.0/W01.2.2O07.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/bin/Debug/net8.0/W01.2.2O07.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/bin/Debug/net8.0/W01.2.2O07.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/bin/Debug/net8.0/W01.2.2O07.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/refint/W01.2.2O07.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/W01.2.2O07.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W01/2/O/W01.2.2O07/obj/Debug/net8.0/ref/W01.2.2O07.dll

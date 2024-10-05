@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//THIS ASSIGNMENT DOESN"T USE THE PROGRAM.CS FILE, PLEASE REFER TO THE OTHER FILES
