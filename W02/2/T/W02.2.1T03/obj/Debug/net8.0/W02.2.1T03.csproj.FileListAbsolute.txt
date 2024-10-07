@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/bin/Debug/net8.0/W02.2.1T03
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/bin/Debug/net8.0/W02.2.1T03.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/bin/Debug/net8.0/W02.2.1T03.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/bin/Debug/net8.0/W02.2.1T03.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/bin/Debug/net8.0/W02.2.1T03.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/refint/W02.2.1T03.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/W02.2.1T03.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T03/obj/Debug/net8.0/ref/W02.2.1T03.dll
