@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program
+{
+    public static void Main()
+    {
+        Cat cat = new Cat("Fred");
+        Console.WriteLine(cat.Name);
+    }
+}

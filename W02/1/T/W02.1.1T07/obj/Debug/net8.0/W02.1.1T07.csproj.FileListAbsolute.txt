@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/bin/Debug/net8.0/W02.1.1T07
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/bin/Debug/net8.0/W02.1.1T07.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/bin/Debug/net8.0/W02.1.1T07.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/bin/Debug/net8.0/W02.1.1T07.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/bin/Debug/net8.0/W02.1.1T07.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/refint/W02.1.1T07.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/W02.1.1T07.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/1/T/W02.1.1T07/obj/Debug/net8.0/ref/W02.1.1T07.dll

@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program {
+    public static void Main() {
+        Console.WriteLine(Pow2(5));
+    }
+
+    public static int Pow2(int integer) {
+        return integer * integer;
+    }
+}
