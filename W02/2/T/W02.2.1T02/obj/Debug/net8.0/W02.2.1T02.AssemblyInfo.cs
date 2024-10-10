@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W02.2.1T02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4936660a114b7c5d732f6bbcbd50d6127e7706bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d64153f737718c89e75910fa81ec8cf8ca2c8093")]
 [assembly: System.Reflection.AssemblyProductAttribute("W02.2.1T02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W02.2.1T02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
