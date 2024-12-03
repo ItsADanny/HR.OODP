@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/bin/Debug/net9.0/SelectorTime
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/bin/Debug/net9.0/SelectorTime.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/bin/Debug/net9.0/SelectorTime.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/bin/Debug/net9.0/SelectorTime.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/bin/Debug/net9.0/SelectorTime.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/refint/SelectorTime.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/SelectorTime.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorTime/obj/Debug/net9.0/ref/SelectorTime.dll

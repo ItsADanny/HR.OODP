@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XjUKqykhupo=",
+  "dgSpecHash": "p85+Y5YGYXs=",
   "success": true,
   "projectFilePath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W06/2/O/W06.2.2O03/W06.2.2O03.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/dannydesnoo/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/dannydesnoo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/dannydesnoo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

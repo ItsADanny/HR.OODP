@@ -1,0 +1,41 @@
+[
+    {
+        "code": "WNHU 230011 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Vegetables",
+            "Fruits"
+        ],
+        "origin": "COL",
+        "weight": "23,520 lbs"
+    },
+    {
+        "code": "WNHU 230012 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Vegetables",
+            "Fruits"
+        ],
+        "origin": "PER",
+        "weight": "36,780 lbs"
+    },
+    {
+        "code": "WNHU 230013 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Fruits"
+        ],
+        "origin": "COL",
+        "weight": "17,990 lbs"
+    },
+    {
+        "code": "WNHU 230014 0",
+        "manifest": "manifest001",
+        "categories": [
+            "Flowers",
+            "Plants"
+        ],
+        "origin": "ES",
+        "weight": "10,070 lbs"
+    }
+]

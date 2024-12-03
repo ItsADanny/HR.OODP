@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/bin/Debug/net9.0/Demo-HighOrderFunctions
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/bin/Debug/net9.0/Demo-HighOrderFunctions.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/bin/Debug/net9.0/Demo-HighOrderFunctions.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/bin/Debug/net9.0/Demo-HighOrderFunctions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/bin/Debug/net9.0/Demo-HighOrderFunctions.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/refint/Demo-HighOrderFunctions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/Demo-HighOrderFunctions.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-HighOrderFunctions/obj/Debug/net9.0/ref/Demo-HighOrderFunctions.dll

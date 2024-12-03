@@ -1,0 +1,22 @@
+[
+    {
+        "code": "WNHU 230021 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Electronics",
+            "Hardware"
+        ],
+        "origin": "CHN",
+        "weight": "35,695 lbs"
+    },
+    {
+        "code": "WNHU 230022 0",
+        "manifest": "manifest002",
+        "categories": [
+            "Electronics",
+            "Hardware"
+        ],
+        "origin": "TWN",
+        "weight": "40,320 lbs"
+    }
+]

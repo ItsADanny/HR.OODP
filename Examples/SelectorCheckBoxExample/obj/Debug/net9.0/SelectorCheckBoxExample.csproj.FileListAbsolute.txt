@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/bin/Debug/net9.0/SelectorCheckBoxExample
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/bin/Debug/net9.0/SelectorCheckBoxExample.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/bin/Debug/net9.0/SelectorCheckBoxExample.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/bin/Debug/net9.0/SelectorCheckBoxExample.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/bin/Debug/net9.0/SelectorCheckBoxExample.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/refint/SelectorCheckBoxExample.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/SelectorCheckBoxExample.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorCheckBoxExample/obj/Debug/net9.0/ref/SelectorCheckBoxExample.dll

@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/bin/Debug/net9.0/Demo-LambdaFunctions
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/bin/Debug/net9.0/Demo-LambdaFunctions.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/bin/Debug/net9.0/Demo-LambdaFunctions.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/bin/Debug/net9.0/Demo-LambdaFunctions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/bin/Debug/net9.0/Demo-LambdaFunctions.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/refint/Demo-LambdaFunctions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/Demo-LambdaFunctions.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W13/1/Examples/Demo-LambdaFunctions/obj/Debug/net9.0/ref/Demo-LambdaFunctions.dll

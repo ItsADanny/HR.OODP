@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/bin/Debug/net9.0/SelectorExample
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/bin/Debug/net9.0/SelectorExample.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/bin/Debug/net9.0/SelectorExample.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/bin/Debug/net9.0/SelectorExample.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/bin/Debug/net9.0/SelectorExample.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/refint/SelectorExample.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/SelectorExample.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorExample/obj/Debug/net9.0/ref/SelectorExample.dll

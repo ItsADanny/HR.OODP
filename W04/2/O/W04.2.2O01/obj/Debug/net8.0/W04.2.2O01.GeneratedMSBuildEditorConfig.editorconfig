@@ -11,3 +11,5 @@ build_property.RootNamespace = W04._2._2O01
 build_property.ProjectDir = /Users/dannydesnoo/Documents/GitHub/HR.OODP/W04/2/O/W04.2.2O01/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

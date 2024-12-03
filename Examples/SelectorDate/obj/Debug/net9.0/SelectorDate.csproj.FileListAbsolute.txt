@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/bin/Debug/net9.0/SelectorDate
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/bin/Debug/net9.0/SelectorDate.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/bin/Debug/net9.0/SelectorDate.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/bin/Debug/net9.0/SelectorDate.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/bin/Debug/net9.0/SelectorDate.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/refint/SelectorDate.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/SelectorDate.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Examples/SelectorDate/obj/Debug/net9.0/ref/SelectorDate.dll
