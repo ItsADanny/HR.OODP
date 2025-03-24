@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W04/1/T/W04.1.1T01/W04.1.1T01.csproj": {}
+  },
+  "projects": {
+    "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W04/1/T/W04.1.1T01/W04.1.1T01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W04/1/T/W04.1.1T01/W04.1.1T01.csproj",
+        "projectName": "W04.1.1T01",
+        "projectPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W04/1/T/W04.1.1T01/W04.1.1T01.csproj",
+        "packagesPath": "/Users/dannydesnoo/.nuget/packages/",
+        "outputPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W04/1/T/W04.1.1T01/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dannydesnoo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
