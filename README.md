@@ -18,7 +18,6 @@ The solution structure for this repo reflexts this in the following way
 | `W00` | This folder contains everything for week 0 |
 | `W01` | This folder contains everything for week 1 |
 | `W02` | This folder contains everything for week 2 |
-| `Master assignment`      | This folder contains everything for the master assignment |
 
 | Sub folders (Per week) | Description                       |
 | :-------- | :-------------------------------- |
@@ -27,8 +26,8 @@ The solution structure for this repo reflexts this in the following way
 
 | Sub folders (Per day) | Description                       |
 | :-------- | :-------------------------------- |
-| `C` | This folder contains the code and Description for the Challenges |
-| `H` | This folder contains the code and Description for the Homework |
+| `O` | This folder contains the code and Description for the homework |
+| `T` | This folder contains the code and Description for the class assignment |
 
 ### Code and Repo author
 
@@ -67,12 +66,12 @@ OODP is opgesplitst in weken en een Master assignment. The solution structuur va
 | Sub folders (Per week) | Description                       |
 | :-------- | :-------------------------------- |
 | `1` | Deze folder heeft alle code (Challenges en Huiswerk opdrachten) voor de eerste school dag van de week |
-| `2`      | Deze folder heeft alle code (Challenges en Huiswerk opdrachten) voor de tweede school dag van de week |
+| `2` | Deze folder heeft alle code (Challenges en Huiswerk opdrachten) voor de tweede school dag van de week |
 
 | Sub folders (Per dag) | Description                       |
 | :-------- | :-------------------------------- |
-| `C` | Deze folder heeft alle code voor de Challenges |
-| `H` | Deze folder heeft alle code voor de Huiswerk opdrachten |
+| `O` | Deze folder heeft alle code voor de huiswerk opdracht |
+| `T` | Deze folder heeft alle code voor de klassikale opdracht |
 
 ### Code en Repo auteur
 
