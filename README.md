@@ -36,8 +36,8 @@ The reason week 8 and 9 are missing is that those are exam/project weeks
 
 | Sub folders (Per week) | Description                       |
 | :-------- | :-------------------------------- |
-| `1` | This folder contains the challenges and homework for school day 1 |
-| `2` | This folder contains the challenges and homework for school day 2 |
+| `1` | This folder contains the homework and class assignments for school day 1 |
+| `2` | This folder contains the homework and class assignments for school day 2 |
 
 | Sub folders (Per day) | Description                       |
 | :-------- | :-------------------------------- |
@@ -94,8 +94,8 @@ De reden dat week 8 en 9 ontbreken is omdat dit examen/project weken betreft
 
 | Sub folders (Per week) | Description                       |
 | :-------- | :-------------------------------- |
-| `1` | Deze folder heeft alle code (Challenges en Huiswerk opdrachten) voor de eerste school dag van de week |
-| `2` | Deze folder heeft alle code (Challenges en Huiswerk opdrachten) voor de tweede school dag van de week |
+| `1` | Deze folder heeft alle code (huiswerk en klassikale opdrachten) voor de eerste school dag van de week |
+| `2` | Deze folder heeft alle code (huiswerk en klassikale opdrachten) voor de tweede school dag van de week |
 
 | Sub folders (Per dag) | Description                       |
 | :-------- | :-------------------------------- |
