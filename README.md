@@ -30,6 +30,7 @@ The solution structure for this repo reflexts this in the following way
 | `W14` | This folder contains everything for week 14 |
 | `W15` | This folder contains everything for week 15 |
 | `W16` | This folder contains everything for week 16 |
+
 The reason week 8 and 9 are missing is that those are exam/project weeks
 
 
@@ -87,6 +88,7 @@ OODP is opgesplitst in weken en een Master assignment. The solution structuur va
 | `W14`      | Deze folder heeft alles van week 14 |
 | `W15`      | Deze folder heeft alles van week 15 |
 | `W16`      | Deze folder heeft alles van week 16 |
+
 De reden dat week 8 en 9 ontbreken is omdat dit examen/project weken betreft
 
 
