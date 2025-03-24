@@ -10,6 +10,8 @@ This repo contains all the Challenges and Homework assignments for the Computer 
 For an official explanation about what OODP intails follow this link to the official Hogeschool Rotterdam website about the Computer Science HBO (Bachelor) (fulltime) course:
 
 [Hogeschool Rotterdam - Computer Science (HBO - Bachelor - Fulltime)](https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/informatica/voltijd/)
+[Hogeschool Rotterdam - OODP Course - GitHub page](https://github.com/hogeschool/OODP)
+
 
 OODP is split into weeks and a Master assignment.
 The solution structure for this repo reflexts this in the following way
@@ -69,6 +71,7 @@ OODP is een 20 Weken lang (Zonder op Feestdagen en vakanties) programmeren cursu
 Voor een officiele uitleg over wat OODP allemaal inhoudt raad ik u aan om naar de officiele Hogeschool Rotterdam website te gaan over de HBO Bachelor voltijd Informatica opleiding:
 
 [Hogeschool Rotterdam - Computer Science (HBO - Bachelor - Fulltime)](https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/informatica/voltijd/)
+[Hogeschool Rotterdam - OODP Cursus - GitHub pagina](https://github.com/hogeschool/OODP)
 
 OODP is opgesplitst in weken en een Master assignment. The solution structuur van dit repo reflecteert dit op de volgende manier
 | Main folders | Description                       |
