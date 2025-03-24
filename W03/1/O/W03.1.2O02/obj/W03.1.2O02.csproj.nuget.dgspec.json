@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O02/W03.1.2O02.csproj": {}
+    "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O02/W03.1.2O02.csproj": {}
   },
   "projects": {
-    "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O02/W03.1.2O02.csproj": {
+    "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O02/W03.1.2O02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O02/W03.1.2O02.csproj",
+        "projectUniqueName": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O02/W03.1.2O02.csproj",
         "projectName": "W03.1.2O02",
-        "projectPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O02/W03.1.2O02.csproj",
+        "projectPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O02/W03.1.2O02.csproj",
         "packagesPath": "/Users/dannydesnoo/.nuget/packages/",
-        "outputPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O02/obj/",
+        "outputPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O02/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dannydesnoo/.nuget/NuGet/NuGet.Config"

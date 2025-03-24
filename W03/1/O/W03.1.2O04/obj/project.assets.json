@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O04/W03.1.2O04.csproj",
+      "projectUniqueName": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O04/W03.1.2O04.csproj",
       "projectName": "W03.1.2O04",
-      "projectPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O04/W03.1.2O04.csproj",
+      "projectPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O04/W03.1.2O04.csproj",
       "packagesPath": "/Users/dannydesnoo/.nuget/packages/",
-      "outputPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W03/1/O/W03.1.2O04/obj/",
+      "outputPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W03/1/O/W03.1.2O04/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dannydesnoo/.nuget/NuGet/NuGet.Config"

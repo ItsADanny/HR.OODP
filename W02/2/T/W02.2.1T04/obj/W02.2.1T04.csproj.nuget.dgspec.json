@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W02/2/T/W02.2.1T04/W02.2.1T04.csproj": {}
+    "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T04/W02.2.1T04.csproj": {}
   },
   "projects": {
-    "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W02/2/T/W02.2.1T04/W02.2.1T04.csproj": {
+    "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T04/W02.2.1T04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W02/2/T/W02.2.1T04/W02.2.1T04.csproj",
+        "projectUniqueName": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T04/W02.2.1T04.csproj",
         "projectName": "W02.2.1T04",
-        "projectPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W02/2/T/W02.2.1T04/W02.2.1T04.csproj",
+        "projectPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T04/W02.2.1T04.csproj",
         "packagesPath": "/Users/dannydesnoo/.nuget/packages/",
-        "outputPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP 3.0/W02/2/T/W02.2.1T04/obj/",
+        "outputPath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W02/2/T/W02.2.1T04/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dannydesnoo/.nuget/NuGet/NuGet.Config"
