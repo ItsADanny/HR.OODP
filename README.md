@@ -18,6 +18,20 @@ The solution structure for this repo reflexts this in the following way
 | `W00` | This folder contains everything for week 0 |
 | `W01` | This folder contains everything for week 1 |
 | `W02` | This folder contains everything for week 2 |
+| `W03` | This folder contains everything for week 3 |
+| `W04` | This folder contains everything for week 4 |
+| `W05` | This folder contains everything for week 5 |
+| `W06` | This folder contains everything for week 6 |
+| `W07` | This folder contains everything for week 7 |
+| `W10` | This folder contains everything for week 10 |
+| `W11` | This folder contains everything for week 11 |
+| `W12` | This folder contains everything for week 12 |
+| `W13` | This folder contains everything for week 13 |
+| `W14` | This folder contains everything for week 14 |
+| `W15` | This folder contains everything for week 15 |
+| `W16` | This folder contains everything for week 16 |
+The reason week 8 and 9 are missing is that those are exam/project weeks
+
 
 | Sub folders (Per week) | Description                       |
 | :-------- | :-------------------------------- |
@@ -61,7 +75,20 @@ OODP is opgesplitst in weken en een Master assignment. The solution structuur va
 | `W00` | Deze folder heeft alles van week 0 |
 | `W01`      | Deze folder heeft alles van week 1 |
 | `W02`      | Deze folder heeft alles van week 2 |
-| `Master assignment`      | Deze folder heeft alle code van de master assignment |
+| `W03`      | Deze folder heeft alles van week 3 |
+| `W04`      | Deze folder heeft alles van week 4 |
+| `W05`      | Deze folder heeft alles van week 5 |
+| `W06`      | Deze folder heeft alles van week 6 |
+| `W07`      | Deze folder heeft alles van week 7 |
+| `W10`      | Deze folder heeft alles van week 10 |
+| `W11`      | Deze folder heeft alles van week 11 |
+| `W12`      | Deze folder heeft alles van week 12 |
+| `W13`      | Deze folder heeft alles van week 13 |
+| `W14`      | Deze folder heeft alles van week 14 |
+| `W15`      | Deze folder heeft alles van week 15 |
+| `W16`      | Deze folder heeft alles van week 16 |
+De reden dat week 8 en 9 ontbreken is omdat dit examen/project weken betreft
+
 
 | Sub folders (Per week) | Description                       |
 | :-------- | :-------------------------------- |
