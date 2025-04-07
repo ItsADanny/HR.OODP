@@ -1,5 +1,5 @@
-public static class Converter<T> {
-    public static T ConvertVariables(T T1, T T2) {
-        return (T2) Convert.ChangeType(T1, typeof(T2));
+public static class Converter<T1, T2> {
+    public static T2 ConvertVariables(T1 t1, T2 t2) {
+        return (T2) Convert.ChangeType(t1, typeof(T2));
     } 
 }

@@ -625,6 +625,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "In class example", "In clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6_2 Abstract class", "W06\2\In class example\W6_2 Abstract class\W6_2 Abstract class.csproj", "{AC8828E1-EC23-41FD-8339-FBD66ADADD04}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScratchPad", "ScratchPad", "{E7297BD3-A0A3-2E7C-9F8C-FED558DC1F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodSample", "ScratchPad\FoodSample\FoodSample.csproj", "{578D4045-2DD8-4FEA-ABAA-CD6C4F2FF795}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample Midterm Exams", "Sample Midterm Exams", "{90FDC802-BE53-057E-B576-28211972DB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Exam Midterm Assignment 1", "Sample Midterm Exams\Sample Exam Midterm Assignment 1\Sample Exam Midterm Assignment 1.csproj", "{96323662-58D6-4A91-BC0C-5A70E18EEF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Exam Midterm Assignment 2", "Sample Midterm Exams\Sample Exam Midterm Assignment 2\Sample Exam Midterm Assignment 2.csproj", "{3B5A5B64-0496-4611-ABF0-7F28408391BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Exam Midterm Assignment 3", "Sample Midterm Exams\Sample Exam Midterm Assignment 3\Sample Exam Midterm Assignment 3.csproj", "{0D7806D9-8D8C-49E2-90B7-D8766C46A833}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1523,6 +1535,22 @@ Global
 		{AC8828E1-EC23-41FD-8339-FBD66ADADD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC8828E1-EC23-41FD-8339-FBD66ADADD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC8828E1-EC23-41FD-8339-FBD66ADADD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578D4045-2DD8-4FEA-ABAA-CD6C4F2FF795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578D4045-2DD8-4FEA-ABAA-CD6C4F2FF795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578D4045-2DD8-4FEA-ABAA-CD6C4F2FF795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578D4045-2DD8-4FEA-ABAA-CD6C4F2FF795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96323662-58D6-4A91-BC0C-5A70E18EEF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96323662-58D6-4A91-BC0C-5A70E18EEF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96323662-58D6-4A91-BC0C-5A70E18EEF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96323662-58D6-4A91-BC0C-5A70E18EEF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5A5B64-0496-4611-ABF0-7F28408391BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5A5B64-0496-4611-ABF0-7F28408391BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5A5B64-0496-4611-ABF0-7F28408391BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5A5B64-0496-4611-ABF0-7F28408391BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7806D9-8D8C-49E2-90B7-D8766C46A833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7806D9-8D8C-49E2-90B7-D8766C46A833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7806D9-8D8C-49E2-90B7-D8766C46A833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7806D9-8D8C-49E2-90B7-D8766C46A833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1824,5 +1852,9 @@ Global
 		{54EC3E9E-88B3-4E36-B075-0689C5EEF731} = {8CF88E5A-D928-EB89-C4BD-68B260AD7F2A}
 		{E6CC663E-A533-19C8-4DD1-748B078D0A2E} = {F499A29C-6905-65A6-1D26-864900EE0A1C}
 		{AC8828E1-EC23-41FD-8339-FBD66ADADD04} = {E6CC663E-A533-19C8-4DD1-748B078D0A2E}
+		{578D4045-2DD8-4FEA-ABAA-CD6C4F2FF795} = {E7297BD3-A0A3-2E7C-9F8C-FED558DC1F6E}
+		{96323662-58D6-4A91-BC0C-5A70E18EEF6F} = {90FDC802-BE53-057E-B576-28211972DB58}
+		{3B5A5B64-0496-4611-ABF0-7F28408391BE} = {90FDC802-BE53-057E-B576-28211972DB58}
+		{0D7806D9-8D8C-49E2-90B7-D8766C46A833} = {90FDC802-BE53-057E-B576-28211972DB58}
 	EndGlobalSection
 EndGlobal
