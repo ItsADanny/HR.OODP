@@ -637,6 +637,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Exam Midterm Assignm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Exam Midterm Assignment 3", "Sample Midterm Exams\Sample Exam Midterm Assignment 3\Sample Exam Midterm Assignment 3.csproj", "{0D7806D9-8D8C-49E2-90B7-D8766C46A833}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Midterm Exams", "Midterm Exams", "{AF7D89CC-A9BE-F169-AD85-357248D604F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam Midterm Assignment 1", "Midterm Exams\Exam Midterm Assignment 1\Exam Midterm Assignment 1.csproj", "{0C022E78-5838-48C6-8082-02C1D656EA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam Midterm Assignment 2", "Midterm Exams\Exam Midterm Assignment 2\Exam Midterm Assignment 2.csproj", "{0F5686A0-3A88-4A2A-96E0-E8372A9684B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam Midterm Assignment 3", "Midterm Exams\Exam Midterm Assignment 3\Exam Midterm Assignment 3.csproj", "{65F0CA59-A85B-49CC-A9DB-403137AC8302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1551,6 +1559,18 @@ Global
 		{0D7806D9-8D8C-49E2-90B7-D8766C46A833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D7806D9-8D8C-49E2-90B7-D8766C46A833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D7806D9-8D8C-49E2-90B7-D8766C46A833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C022E78-5838-48C6-8082-02C1D656EA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C022E78-5838-48C6-8082-02C1D656EA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C022E78-5838-48C6-8082-02C1D656EA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C022E78-5838-48C6-8082-02C1D656EA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5686A0-3A88-4A2A-96E0-E8372A9684B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5686A0-3A88-4A2A-96E0-E8372A9684B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5686A0-3A88-4A2A-96E0-E8372A9684B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5686A0-3A88-4A2A-96E0-E8372A9684B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F0CA59-A85B-49CC-A9DB-403137AC8302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F0CA59-A85B-49CC-A9DB-403137AC8302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F0CA59-A85B-49CC-A9DB-403137AC8302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F0CA59-A85B-49CC-A9DB-403137AC8302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1856,5 +1876,8 @@ Global
 		{96323662-58D6-4A91-BC0C-5A70E18EEF6F} = {90FDC802-BE53-057E-B576-28211972DB58}
 		{3B5A5B64-0496-4611-ABF0-7F28408391BE} = {90FDC802-BE53-057E-B576-28211972DB58}
 		{0D7806D9-8D8C-49E2-90B7-D8766C46A833} = {90FDC802-BE53-057E-B576-28211972DB58}
+		{0C022E78-5838-48C6-8082-02C1D656EA53} = {AF7D89CC-A9BE-F169-AD85-357248D604F7}
+		{0F5686A0-3A88-4A2A-96E0-E8372A9684B2} = {AF7D89CC-A9BE-F169-AD85-357248D604F7}
+		{65F0CA59-A85B-49CC-A9DB-403137AC8302} = {AF7D89CC-A9BE-F169-AD85-357248D604F7}
 	EndGlobalSection
 EndGlobal
