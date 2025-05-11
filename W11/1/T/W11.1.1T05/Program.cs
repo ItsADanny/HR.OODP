@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//This assignment doesn't contain a Program.cs,
+//For this assignment please refer to the WeatherData.cs file

@@ -1,3 +1,4 @@
+//We create a class 
 public class Cruiser : Motorcycle {
     public int SeatHeight;
 

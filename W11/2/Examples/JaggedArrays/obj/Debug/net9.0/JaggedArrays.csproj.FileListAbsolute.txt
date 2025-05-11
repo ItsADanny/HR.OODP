@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/bin/Debug/net9.0/JaggedArrays
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/bin/Debug/net9.0/JaggedArrays.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/bin/Debug/net9.0/JaggedArrays.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/bin/Debug/net9.0/JaggedArrays.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/bin/Debug/net9.0/JaggedArrays.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/refint/JaggedArrays.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/JaggedArrays.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Examples/JaggedArrays/obj/Debug/net9.0/ref/JaggedArrays.dll

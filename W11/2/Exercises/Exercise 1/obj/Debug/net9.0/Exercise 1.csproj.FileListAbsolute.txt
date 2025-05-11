@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/bin/Debug/net9.0/Exercise 1
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/bin/Debug/net9.0/Exercise 1.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/bin/Debug/net9.0/Exercise 1.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/bin/Debug/net9.0/Exercise 1.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/bin/Debug/net9.0/Exercise 1.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/refint/Exercise 1.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/Exercise 1.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W11/2/Exercises/Exercise 1/obj/Debug/net9.0/ref/Exercise 1.dll
