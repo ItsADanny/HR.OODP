@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/bin/Debug/net9.0/Revision
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/bin/Debug/net9.0/Revision.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/bin/Debug/net9.0/Revision.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/bin/Debug/net9.0/Revision.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/bin/Debug/net9.0/Revision.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/refint/Revision.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/Revision.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Revision/obj/Debug/net9.0/ref/Revision.dll

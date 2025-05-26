@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/bin/Debug/net9.0/CountGrades
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/bin/Debug/net9.0/CountGrades.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/bin/Debug/net9.0/CountGrades.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/bin/Debug/net9.0/CountGrades.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/bin/Debug/net9.0/CountGrades.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/refint/CountGrades.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/CountGrades.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/1/Class Excersises/CountGrades/obj/Debug/net9.0/ref/CountGrades.dll

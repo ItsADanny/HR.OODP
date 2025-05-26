@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/bin/Debug/net9.0/Directories
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/bin/Debug/net9.0/Directories.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/bin/Debug/net9.0/Directories.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/bin/Debug/net9.0/Directories.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/bin/Debug/net9.0/Directories.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/refint/Directories.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/Directories.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Directories/obj/Debug/net9.0/ref/Directories.dll

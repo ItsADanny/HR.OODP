@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/bin/Debug/net9.0/Bed Time Story
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/bin/Debug/net9.0/Bed Time Story.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/bin/Debug/net9.0/Bed Time Story.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/bin/Debug/net9.0/Bed Time Story.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/bin/Debug/net9.0/Bed Time Story.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/refint/Bed Time Story.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/Bed Time Story.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W12/2/Examples/Bed Time Story/obj/Debug/net9.0/ref/Bed Time Story.dll
