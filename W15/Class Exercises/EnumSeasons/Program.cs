@@ -2,6 +2,7 @@
 {
     public static void Main()
     {
+        //This is not part of the class exercise, but this can be used to test the code and display the results
         Season current = Season.Winter;
         bool Exit = false;
         while (!Exit)
