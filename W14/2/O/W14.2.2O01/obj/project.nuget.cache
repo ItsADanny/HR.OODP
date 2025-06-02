@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "t5xo7WTc1Xo=",
+  "dgSpecHash": "R7UJyp9siLA=",
   "success": true,
   "projectFilePath": "/Users/dannydesnoo/Documents/GitHub/HR.OODP/W14/2/O/W14.2.2O01/W14.2.2O01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/dannydesnoo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

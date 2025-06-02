@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/bin/Debug/net9.0/EnumSeasons
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/bin/Debug/net9.0/EnumSeasons.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/bin/Debug/net9.0/EnumSeasons.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/bin/Debug/net9.0/EnumSeasons.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/bin/Debug/net9.0/EnumSeasons.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/refint/EnumSeasons.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/EnumSeasons.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/W15/Class Exercises/EnumSeasons/obj/Debug/net9.0/ref/EnumSeasons.dll
