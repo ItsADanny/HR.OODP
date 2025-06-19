@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/bin/Debug/net9.0/Abstract classes
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/bin/Debug/net9.0/Abstract classes.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/bin/Debug/net9.0/Abstract classes.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/bin/Debug/net9.0/Abstract classes.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/bin/Debug/net9.0/Abstract classes.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/refint/Abstract classes.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/Abstract classes.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Abstract classes/obj/Debug/net9.0/ref/Abstract classes.dll

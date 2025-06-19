@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/bin/Debug/net9.0/IEquateable
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/bin/Debug/net9.0/IEquateable.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/bin/Debug/net9.0/IEquateable.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/bin/Debug/net9.0/IEquateable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/bin/Debug/net9.0/IEquateable.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/refint/IEquateable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/IEquateable.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/IEquateable/obj/Debug/net9.0/ref/IEquateable.dll

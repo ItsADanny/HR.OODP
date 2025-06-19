@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/bin/Debug/net9.0/Stack
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/bin/Debug/net9.0/Stack.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/bin/Debug/net9.0/Stack.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/bin/Debug/net9.0/Stack.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/bin/Debug/net9.0/Stack.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/refint/Stack.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/Stack.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Cheatsheet/Stack/obj/Debug/net9.0/ref/Stack.dll
