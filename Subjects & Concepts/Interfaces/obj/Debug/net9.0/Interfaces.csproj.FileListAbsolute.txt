@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/bin/Debug/net9.0/Interfaces
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/bin/Debug/net9.0/Interfaces.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/bin/Debug/net9.0/Interfaces.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/bin/Debug/net9.0/Interfaces.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/bin/Debug/net9.0/Interfaces.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/refint/Interfaces.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/Interfaces.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Interfaces/obj/Debug/net9.0/ref/Interfaces.dll

@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/bin/Debug/net9.0/IComparable
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/bin/Debug/net9.0/IComparable.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/bin/Debug/net9.0/IComparable.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/bin/Debug/net9.0/IComparable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/bin/Debug/net9.0/IComparable.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/refint/IComparable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/IComparable.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IComparable/obj/Debug/net9.0/ref/IComparable.dll

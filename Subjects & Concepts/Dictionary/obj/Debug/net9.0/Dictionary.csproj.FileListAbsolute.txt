@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/bin/Debug/net9.0/Dictionary
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/bin/Debug/net9.0/Dictionary.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/bin/Debug/net9.0/Dictionary.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/bin/Debug/net9.0/Dictionary.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/bin/Debug/net9.0/Dictionary.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/refint/Dictionary.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/Dictionary.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Dictionary/obj/Debug/net9.0/ref/Dictionary.dll

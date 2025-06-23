@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/bin/Debug/net9.0/Lambda Functions
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/bin/Debug/net9.0/Lambda Functions.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/bin/Debug/net9.0/Lambda Functions.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/bin/Debug/net9.0/Lambda Functions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/bin/Debug/net9.0/Lambda Functions.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/refint/Lambda Functions.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/Lambda Functions.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Lambda Functions/obj/Debug/net9.0/ref/Lambda Functions.dll

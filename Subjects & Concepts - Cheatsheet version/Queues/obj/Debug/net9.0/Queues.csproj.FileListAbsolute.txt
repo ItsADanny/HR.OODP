@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/bin/Debug/net9.0/Queues
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/bin/Debug/net9.0/Queues.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/bin/Debug/net9.0/Queues.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/bin/Debug/net9.0/Queues.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/bin/Debug/net9.0/Queues.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/refint/Queues.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/Queues.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts - Cheatsheet version/Queues/obj/Debug/net9.0/ref/Queues.dll

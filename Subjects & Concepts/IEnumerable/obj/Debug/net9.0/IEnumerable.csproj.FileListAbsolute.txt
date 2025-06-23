@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/bin/Debug/net9.0/IEnumerable
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/bin/Debug/net9.0/IEnumerable.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/bin/Debug/net9.0/IEnumerable.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/bin/Debug/net9.0/IEnumerable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/bin/Debug/net9.0/IEnumerable.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/refint/IEnumerable.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/IEnumerable.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/IEnumerable/obj/Debug/net9.0/ref/IEnumerable.dll

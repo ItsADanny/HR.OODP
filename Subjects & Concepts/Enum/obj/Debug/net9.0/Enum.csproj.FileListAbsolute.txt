@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/bin/Debug/net9.0/Enum
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/bin/Debug/net9.0/Enum.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/bin/Debug/net9.0/Enum.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/bin/Debug/net9.0/Enum.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/bin/Debug/net9.0/Enum.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/refint/Enum.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/Enum.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Subjects & Concepts/Enum/obj/Debug/net9.0/ref/Enum.dll
