@@ -1,6 +1,6 @@
 ﻿//↓ This defines our input to a variable which we can use
-Action<Person> UpdateCountryField = (Person human) => {  //We can use => { } to use multiple code lines in a lambda function
-   //↑ This defines the input for our lambda function
+Action<Person> UpdateCountryField = (Person human) => {  //We can use => { } to use multiple lines
+        //↑ This defines the input for our lambda function
     if (human is not null) {
         if (human.CountryOfBirth is null || human.CountryOfBirth == "") {
             human.CountryOfBirth = "Unknown";

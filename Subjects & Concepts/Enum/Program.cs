@@ -84,18 +84,18 @@ public class Season
     public void PrintAll()
     {
         Console.WriteLine("All the seasons in eSeason");
-        foreach (int season in Enum.GetValues(typeof(eSeason)))
+        foreach (eSeason season in Enum.GetValues(typeof(eSeason)))
         {
-            Console.WriteLine("- " + (eSeason) season);
+            Console.WriteLine("- " + season);
         }
     }
 
     public void PrintAllNL()
     {
         Console.WriteLine("Alle seizoenen in eSeizoen");
-        foreach (int seizoen in Enum.GetValues(typeof(eSeizoen)))
+        foreach (eSeizoen seizoen in Enum.GetValues(typeof(eSeizoen)))
         {
-            Console.WriteLine("- " + (eSeizoen) seizoen);
+            Console.WriteLine("- " + seizoen);
         }
     }
     

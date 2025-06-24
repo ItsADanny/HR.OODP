@@ -28,7 +28,7 @@
     }
 }
 
-public class ToDoItem : IComparable<ToDoItem>
+public class ToDoItem : IComparable<ToDoItem> //To use iComparable, add it at the end of the class you want to use it in/on
 {
     public string Title;
     public string Description;
@@ -43,7 +43,7 @@ public class ToDoItem : IComparable<ToDoItem>
         Completed = false;
     }
 
-    public int CompareTo(ToDoItem? other)
+    public int CompareTo(ToDoItem? other) //This needs to be implemented to use IComparable, and define what it must check to sort
     {
         if (other is null) return 1; //Base check to see if the other object is a null, 
                                      //if so we return a 1 to show that our original object is a higher position item

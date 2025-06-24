@@ -25,13 +25,13 @@ public class Person : IEquatable<Person> //Add IEquatable to the end to start im
         Age = age;
     }
 
-    public bool Equals(Person other)
+    public bool Equals(Person other) //This is required for implementation
     {
         if (other is null) return false;
         return Name == other.Name && Age == other.Age;
     }
 
-    public override bool Equals(object obj)
+    public override bool Equals(object obj) //This is required for implementation
     {
         return Equals(obj as Person);
     }

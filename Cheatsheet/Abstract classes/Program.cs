@@ -20,7 +20,8 @@
         animals.Add(Kroepie);
 
         //Now we can use Animals in a foreach loop to get our animals
-        foreach (Animal animal in animals) {
+        foreach (Animal animal in animals)
+        {
             //We can perform checks on the object to see if its an Dog
             if (animal is Dog)
             {
@@ -36,7 +37,8 @@
             }
 
             //We can perform checks on the object to see if its an Cat
-            if (animal is Cat) {
+            if (animal is Cat)
+            {
                 //We can cast our Animal object into Cat object
                 Cat cat = (Cat)animal;
 
