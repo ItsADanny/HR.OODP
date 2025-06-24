@@ -62,7 +62,7 @@ This Repo has 2 purposes.
 to store and backup my personal progress in the OODP course provided by Hogeschool Rotterdam.
 
 #2.
-to serve as a base of examples from which you can learn to code in C#, to learn how to work with Object Oriented Design and how to solve the Challenges and Homework assignments. THIS IS NOT MEANT FOR COPYING AND INPUTTING INTO CODEGRADE. plagiarism will be checked at the end of basecamp. So please use this code only as an example to learn from and not as an "Oh, now i don't have to do that anymore assignment or problem" cheatsheet.
+to serve as a base of examples from which you can learn to code in C#, to learn how to work with Object Oriented Design and how to solve the Challenges and Homework assignments. THIS IS NOT MEANT FOR COPYING AND INPUTTING INTO CODEGRADE. So please use this code only as an example to learn from and not as an "Oh, now i don't have to do that anymore assignment or problem" cheatsheet.
 
 ## (NL)
 
@@ -122,5 +122,5 @@ Dit Repo heeft 2 functies.
 Als een opslag en backup voor mijn persoonlijke progressie in de OODP cursus dat is geleverd door Hogeschool Rotterdam
 
 #2.
-Om te dienen als een basis met voorbeelden waarvan je kan leren programmeren in C# en hoe je sommige van de Challenges en Huiswerk opdrachten kan oplossen. DIT IS NIET BEDOELD OM TE KOPIEREN EN IN CODEGRADE TE ZETTEN. Plagiaat wordt aan het eind van Basecamp gecheckt. Dus gebruik de code alleen als een voorbeeld om van te leren en niet als een "Oh, nu hoef ik lekker die problem of assignment niet meer te doen" cheatsheet.
+Om te dienen als een basis met voorbeelden waarvan je kan leren programmeren in C# en hoe je sommige van de Challenges en Huiswerk opdrachten kan oplossen. DIT IS NIET BEDOELD OM TE KOPIEREN EN IN CODEGRADE TE ZETTEN. Dus gebruik de code alleen als een voorbeeld om van te leren en niet als een "Oh, nu hoef ik lekker die problem of assignment niet meer te doen" cheatsheet.
 
