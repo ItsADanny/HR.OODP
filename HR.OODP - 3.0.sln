@@ -721,6 +721,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda Functions and HOF", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Subjects & Concepts\Generics\Generics.csproj", "{89006E9D-49A6-4036-8233-2608102F415C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam Endterm Assignment 4", "Endterm Exams\Exam Endterm Assignment 4\Exam Endterm Assignment 4.csproj", "{7BBEC873-9E88-4852-A3AD-D146994D77B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1763,6 +1765,10 @@ Global
 		{89006E9D-49A6-4036-8233-2608102F415C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89006E9D-49A6-4036-8233-2608102F415C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89006E9D-49A6-4036-8233-2608102F415C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBEC873-9E88-4852-A3AD-D146994D77B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBEC873-9E88-4852-A3AD-D146994D77B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBEC873-9E88-4852-A3AD-D146994D77B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBEC873-9E88-4852-A3AD-D146994D77B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2106,5 +2112,6 @@ Global
 		{B6A47503-D6C2-4714-A4BC-73C10CF1C60A} = {C59F7E62-ACC4-139B-B433-ABEFBEE6970A}
 		{B57CFC04-57BC-49E5-87BA-403C06890A78} = {C59F7E62-ACC4-139B-B433-ABEFBEE6970A}
 		{89006E9D-49A6-4036-8233-2608102F415C} = {C59F7E62-ACC4-139B-B433-ABEFBEE6970A}
+		{7BBEC873-9E88-4852-A3AD-D146994D77B6} = {54274F6F-5B8A-CE2B-DD7D-F249F21ADC33}
 	EndGlobalSection
 EndGlobal
