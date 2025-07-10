@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/bin/Debug/net9.0/Exam Endterm Assignment 4
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/bin/Debug/net9.0/Exam Endterm Assignment 4.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/bin/Debug/net9.0/Exam Endterm Assignment 4.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/bin/Debug/net9.0/Exam Endterm Assignment 4.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/bin/Debug/net9.0/Exam Endterm Assignment 4.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/refint/Exam Endterm Assignment 4.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/Exam Endterm Assignment 4.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 4/obj/Debug/net9.0/ref/Exam Endterm Assignment 4.dll

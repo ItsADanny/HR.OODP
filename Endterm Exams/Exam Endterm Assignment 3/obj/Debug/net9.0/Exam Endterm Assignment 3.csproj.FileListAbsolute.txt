@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/bin/Debug/net9.0/Exam Endterm Assignment 3
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/bin/Debug/net9.0/Exam Endterm Assignment 3.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/bin/Debug/net9.0/Exam Endterm Assignment 3.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/bin/Debug/net9.0/Exam Endterm Assignment 3.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/bin/Debug/net9.0/Exam Endterm Assignment 3.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/refint/Exam Endterm Assignment 3.dll
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/Exam Endterm Assignment 3.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.OODP/Endterm Exams/Exam Endterm Assignment 3/obj/Debug/net9.0/ref/Exam Endterm Assignment 3.dll
