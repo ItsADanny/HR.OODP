@@ -36,7 +36,7 @@ public class Program
     Console.WriteLine($"\n\nTest #2: Stack type:\n{bar2}");
     score += LocalTestUtils.TestStackType();
     Console.WriteLine($"\n\nTest #3: Stack and Enum: Test Van Constructor:\n{bar2}");
-    score += LocalTestUtils.TestStackEnum_ToString();
+    score += LocalTestUtils.TestStackEnum_Constructor();
     Console.WriteLine($"\n\nTest #4: Stack and Enum: Test Van ToString:\n{bar2}");
     score += LocalTestUtils.TestStackEnum_ToString();
     Console.WriteLine($"\n\nTest #5: Stack and Enum: Test Van Load:\n{bar2}");
@@ -172,25 +172,50 @@ public class LocalTestUtils
     var saved = Console.Out;
 
     string result;
-    string expected = "Testing Loading\nTesting van with capacity: 15\nAttempting to load TV with volume 5. Successful? True\nCapacity: 15\nUsed: 5Contents: TV\nAttempting to load Sofa with volume 4. Successful? True\nCapacity: 15\nUsed: 9\nContents: Sofa TV\nAttempting to load Fridge with volume 2. Successful? True\nCapacity: 15\nUsed: 11\nContents: Fridge Sofa TV\nAttempting to load Computer with volume 3. Successful? True\nCapacity: 15\n" +
-                      "Used: 14\nContents: Computer Fridge Sofa TV\nAttempting to load Lamp with volume 6. Successful? False\nAttempting to load Lamp with volume 6. Successful? False\nAttempting to load Computer with volume 4. Successful? False\nAttempting to load Desk with volume 1. Successful? True\nCapacity: 15\nUsed: 15\nContents: Desk Computer Fridge Sofa TV\nAttempting to load Sofa with volume 6. Successful? False\nAttempting to load Chair with volume 3. Successful? False\n\n" +
-                      "Testing van with capacity: 20\nAttempting to load Desk with volume 5. Successful? True\nCapacity: 20\nUsed: 5\nContents: Desk\nAttempting to load Fridge with volume 5. Successful? True\nCapacity: 20\nUsed: 10\nContents: Fridge Desk\nAttempting to load Table with volume 2. Successful? True\nCapacity: 20\nUsed: 12\nContents: Table Fridge Desk\nAttempting to load Computer with volume 3. Successful? True\nCapacity: 20\n" +
-                      "Used: 15\nContents: Computer Table Fridge Desk\nAttempting to load Lamp with volume 5. Successful? True\nCapacity: 20\nUsed: 20\nContents: Lamp Computer Table Fridge Desk\nAttempting to load Computer with volume 2. Successful? False\nAttempting to load Chair with volume 6. Successful? False\nAttempting to load Lamp with volume 2. Successful? False\nAttempting to load Computer with volume 5. Successful? False\n\n" +
-                      "Testing van with capacity: 30\nAttempting to load TV with volume 5. Successful? True\nCapacity: 30\nUsed: 5\nContents: TV\nAttempting to load Table with volume 3. Successful? True\nCapacity: 30\nUsed: 8\nContents: Table TV\nAttempting to load Computer with volume 3. Successful? True\nCapacity: 30\nUsed: 11\nContents: Computer Table TV\nAttempting to load TV with volume 5. Successful? True\nCapacity: 30\nUsed: 16\n" +
-                      "Contents: TV Computer Table TV\nAttempting to load Desk with volume 4. Successful? True\nCapacity: 30\nUsed: 20\nContents: Desk TV Computer Table TV\nAttempting to load Lamp with volume 2. Successful? True\nCapacity: 30\nUsed: 22\nContents: Lamp Desk TV Computer Table TV\nAttempting to load Computer with volume 5. Successful? True\nCapacity: 30\nUsed: 27\nContents: Computer Lamp Desk TV Computer Table TV\nAttempting to load Sofa with volume 6. Successful? False";
+    string expected;
+    int furnitureCount = 10;
+    var furniture = GenerateFurnitureList(furnitureCount--);
 
+    //Get the results for the expecting comparison
     using (StringWriter stringWriter = new StringWriter())
     {
       Console.SetOut(stringWriter);
 
       //Same code as used by CodeGrade to generate the console output which will be checked
-      int furnitureCount = 10;
+
+      foreach (ExpectedVanCapacity capacity in Enum.GetValues<ExpectedVanCapacity>())
+      {
+        ExpectedVan expectedVan = new(capacity);
+        Console.WriteLine("Testing van with capacity: {0:D}", capacity);
+
+        foreach (var item in furniture)
+        {
+          bool itemLoaded = expectedVan.Load(item);
+          Console.WriteLine($"Attempting to load {item.Name} with volume {item.Volume}. Successful? {itemLoaded}");
+          if (itemLoaded)
+          {
+            Console.WriteLine(expectedVan);
+          }
+        }
+        Console.WriteLine();
+      }
+      Console.WriteLine();
+
+      Console.SetOut(saved);
+      expected = stringWriter.ToString();
+    }
+
+    //Get the results from the tester made code
+    using (StringWriter stringWriter = new StringWriter())
+    {
+      Console.SetOut(stringWriter);
+
+      //Same code as used by CodeGrade to generate the console output which will be checked
       foreach (VanCapacity capacity in Enum.GetValues<VanCapacity>())
       {
         Van van = new(capacity);
         Console.WriteLine("Testing van with capacity: {0:D}", capacity);
 
-        var furniture = GenerateFurnitureList(furnitureCount--);
         foreach (var item in furniture)
         {
           bool itemLoaded = van.Load(item);
@@ -208,11 +233,14 @@ public class LocalTestUtils
       result = stringWriter.ToString();
     }
 
-    bool final = result.Replace(Environment.NewLine, "") == expected.Replace("\n", "");
+    bool final = result == expected;
 
-    if (final) {
+    if (final)
+    {
       Console.WriteLine("\x1b[92mEnum \"Load (Van)\" has been implemented correctly\x1b[39m");
-    } else {
+    }
+    else
+    {
       Console.WriteLine($"\x1b[91mEnum \"Load (Van)\" has not been implemented correctly\nExpected:\n{expected}\n\nActual:\n{result}\x1b[39m");
     }
 
@@ -223,50 +251,75 @@ public class LocalTestUtils
     var saved = Console.Out;
 
     string result;
-    string expected = "Testing with 2 items of furniture\n------------------------------------\nLoaded Van details:\nCapacity: 30\nUsed: 9\nContents: Sofa TV\n\nUnloaded furniture: Sofa TV\n\nVan details after unloading:\nCapacity: 30\nUsed: 0\nContents: \n\nTesting with 5 items of furniture\n------------------------------------\nLoaded Van details:\nCapacity: 30\nUsed: 21\nContents: Computer Lamp Lamp Computer Fridge\n\nUnloaded furniture: Computer Lamp Lamp Computer Fridge\n\nVan details after unloading:\nCapacity: 30\nUsed: 0\nContents: \n\n" +
-                      "Testing with 8 items of furniture\n------------------------------------\nLoaded Van details:\nCapacity: 30\nUsed: 30\nContents: Lamp Computer Table Fridge Desk Chair Sofa Desk\n\nUnloaded furniture: Lamp Computer Table Fridge Desk Chair Sofa Desk\n\nVan details after unloading:\nCapacity: 30\nUsed: 0\nContents: ";
+    string expected;
+    StringWriter resultWriter = new StringWriter();
+    StringWriter expectedWriter = new StringWriter();
 
-    using (StringWriter stringWriter = new StringWriter())
+    for (int i = 2; i <= 8; i += 3)
     {
-      Console.SetOut(stringWriter);
+      Console.SetOut(resultWriter);
+      Console.WriteLine($"Testing with {i} items of furniture");
+      Console.WriteLine($"------------------------------------");
 
-      //Same code as used by CodeGrade to generate the console output which will be checked
-      for (int i = 2; i <= 8; i += 3)
+      Console.SetOut(expectedWriter);
+      Console.WriteLine($"Testing with {i} items of furniture");
+      Console.WriteLine($"------------------------------------");
+
+      Van van = new(VanCapacity.Large);
+      ExpectedVan expectedVan = new(ExpectedVanCapacity.Large);
+
+      var furniture = GenerateFurnitureList(i);
+      foreach (var item in furniture)
       {
-        Console.WriteLine($"Testing with {i} items of furniture");
-        Console.WriteLine($"------------------------------------");
-
-        Van van = new(VanCapacity.Large);
-
-        var furniture = GenerateFurnitureList(i);
-        foreach (var item in furniture)
-        {
-          van.Load(item);
-        }
-
-        Console.WriteLine("Loaded Van details:");
-        Console.WriteLine(van);
-
-        List<Furniture> unloadedFurniture = van.Unload();
-
-        string unloadedFurnitureNames = string.Join(" ", unloadedFurniture.Select(f => f.Name));
-        Console.WriteLine($"\nUnloaded furniture: {unloadedFurnitureNames}");
-
-        Console.WriteLine("\nVan details after unloading:");
-        Console.WriteLine(van);
-        Console.WriteLine();
+        van.Load(item);
+        expectedVan.Load(item);
       }
+
+      Console.SetOut(resultWriter);
+      Console.WriteLine("Loaded Van details:");
+      Console.WriteLine(van);
+
+      Console.SetOut(expectedWriter);
+      Console.WriteLine("Loaded Van details:");
+      Console.WriteLine(expectedVan);
+
+      List<Furniture> unloadedFurniture = van.Unload();
+      List<Furniture> expectedUnloadedFurniture = expectedVan.Unload();
+
+      string unloadedFurnitureNames = string.Join(" ", unloadedFurniture.Select(f => f.Name));
+      string expectedUnloadedFurnitureNames = string.Join(" ", unloadedFurniture.Select(f => f.Name));
+
+      Console.SetOut(resultWriter);
+      Console.WriteLine($"\nUnloaded furniture: {unloadedFurnitureNames}");
+
+      Console.WriteLine("\nVan details after unloading:");
+      Console.WriteLine(van);
       Console.WriteLine();
 
-      Console.SetOut(saved);
-      result = stringWriter.ToString();
+      Console.SetOut(expectedWriter);
+      Console.WriteLine($"\nUnloaded furniture: {unloadedFurnitureNames}");
+
+      Console.WriteLine("\nVan details after unloading:");
+      Console.WriteLine(van);
+      Console.WriteLine();
     }
+    Console.SetOut(resultWriter);
+    Console.WriteLine();
+    Console.SetOut(expectedWriter);
+    Console.WriteLine();
 
-    bool final = result.Replace(Environment.NewLine, "") == expected.Replace("\n", "");
+    Console.SetOut(saved);
+    result = resultWriter.ToString();
+    expected = expectedWriter.ToString();
+    
+    bool final = result == expected;
 
-    if (final) {
+    if (final)
+    {
       Console.WriteLine("\x1b[92mEnum \"Unload (Van)\" has been implemented correctly\x1b[39m");
-    } else {
+    }
+    else
+    {
       Console.WriteLine($"\x1b[91mEnum \"Unload (Van)\" has not been implemented correctly\nExpected:\n{expected}\n\nActual:\n{result}\x1b[39m");
     }
 
@@ -277,7 +330,7 @@ public class LocalTestUtils
     var saved = Console.Out;
 
     string result;
-    string expected = "Testing ToString on initialization\nCapacity: 30\nUsed: 0\nContents:\n\nTesting ToString after loading\nCapacity: 30\nUsed: 20\nContents: Lamp Computer Fridge Sofa TV";
+    string expected = "Testing ToString on initialization\nCapacity: 30\nUsed: 0\nContents: \n\nTesting ToString after loading\nCapacity: 30\nUsed: 20\nContents: Lamp Computer Fridge Sofa TV";
 
     using (StringWriter stringWriter = new StringWriter())
     {
@@ -304,9 +357,12 @@ public class LocalTestUtils
 
     bool final = result.Replace(Environment.NewLine, "") == expected.Replace("\n", "");
 
-    if (final) {
+    if (final)
+    {
       Console.WriteLine("\x1b[92mEnum \"ToString() (Van)\" has been implemented correctly\x1b[39m");
-    } else {
+    }
+    else
+    {
       Console.WriteLine($"\x1b[91mEnum \"ToString() (Van)\" has not been implemented correctly\nExpected:\n{expected}\n\nActual:\n{result}\x1b[39m");
     }
 
@@ -316,26 +372,38 @@ public class LocalTestUtils
   {
     var saved = Console.Out;
 
-    string result;
-    string expected = "Testing TotalInsuredValue\nTotal cost of insured furniture items: 1277\nAll furniture at 3, Fake street:\nTV       - Volume: 5 m3, Value: 791 Euro, Insured: False\nSofa     - Volume: 4 m3, Value: 915 Euro, Insured: True\nFridge   - Volume: 2 m3, Value: 362 Euro, Insured: True\n\nTotal cost of insured furniture items: 3159\nAll furniture at 8, Fake street:\nComputer - Volume: 3 m3, Value: 983 Euro, Insured: True\nLamp     - Volume: 6 m3, Value: 709 Euro, Insured: True\nLamp     - Volume: 6 m3, Value: 992 Euro, Insured: True\nComputer - Volume: 4 m3, Value: 940 Euro, Insured: False\n" +
-                      "Desk     - Volume: 1 m3, Value: 268 Euro, Insured: True\nSofa     - Volume: 6 m3, Value: 678 Euro, Insured: False\nChair    - Volume: 3 m3, Value: 408 Euro, Insured: False\nDesk     - Volume: 5 m3, Value: 207 Euro, Insured: True\n\nTotal cost of insured furniture items: 4158\nAll furniture at 13, Fake street:\nFridge   - Volume: 5 m3, Value: 403 Euro, Insured: True\nTable    - Volume: 2 m3, Value: 469 Euro, Insured: False\nComputer - Volume: 3 m3, Value: 275 Euro, Insured: False\nLamp     - Volume: 5 m3, Value: 872 Euro, Insured: False\nComputer - Volume: 2 m3, Value: 905 Euro, Insured: False\n" +
-                      "Chair    - Volume: 6 m3, Value: 253 Euro, Insured: False\nLamp     - Volume: 2 m3, Value: 999 Euro, Insured: True\nComputer - Volume: 5 m3, Value: 828 Euro, Insured: True\nTV       - Volume: 5 m3, Value: 212 Euro, Insured: False\nTable    - Volume: 3 m3, Value: 586 Euro, Insured: True\nComputer - Volume: 3 m3, Value: 850 Euro, Insured: False\nTV       - Volume: 5 m3, Value: 943 Euro, Insured: True\nDesk     - Volume: 4 m3, Value: 399 Euro, Insured: True";
+    string result = "";
+    string expected = "";
+    StringWriter resultStringWriter = new StringWriter();
+    StringWriter expectedStringWriter = new StringWriter();
 
-    using (StringWriter stringWriter = new StringWriter())
+    Console.SetOut(resultStringWriter);
+    Console.WriteLine("Testing TotalInsuredValue");
+    Console.SetOut(expectedStringWriter);
+    Console.WriteLine("Testing TotalInsuredValue");
+
+    for (int i = 3; i <= 13; i += 5)
     {
-      Console.SetOut(stringWriter);
+      var furniture = GenerateFurnitureList(i);
 
-      mPrintLINQHouse_TotalInsuredValue();
+      Console.SetOut(resultStringWriter);
+      mPrintLINQHouse_TotalInsuredValue(furniture, i);
+      result += resultStringWriter.ToString();
 
-      Console.SetOut(saved);
-      result = stringWriter.ToString();
+      Console.SetOut(expectedStringWriter);
+      mExpectedPrintLINQHouse_TotalInsuredValue(furniture, i);
+      expected += expectedStringWriter.ToString();
     }
+    Console.SetOut(saved);
 
-    bool final = result.Replace(Environment.NewLine, "") == expected.Replace("\n", "");
+    bool final = result == expected;
 
-    if (final) {
+    if (final)
+    {
       Console.WriteLine("\x1b[92mEnum \"TotalInsuredValue() (LINQ) (House)\" has been implemented correctly\x1b[39m");
-    } else {
+    }
+    else
+    {
       Console.WriteLine($"\x1b[91mEnum \"TotalInsuredValue() (LINQ) (House)\" has not been implemented correctly\nExpected:\n{expected}\n\nActual:\n{result}\x1b[39m");
     }
 
@@ -346,64 +414,85 @@ public class LocalTestUtils
   {
     var saved = Console.Out;
 
-    string result;
-    string expected = "Testing GetFurnitureAboveValue\nItems above 250 at 5, Fake street:\nTV       - Volume: 5 m3, Value: 791 Euro, Insured: False\nFridge   - Volume: 2 m3, Value: 362 Euro, Insured: True\nLamp     - Volume: 6 m3, Value: 709 Euro, Insured: True\nSofa     - Volume: 4 m3, Value: 915 Euro, Insured: True\nComputer - Volume: 3 m3, Value: 983 Euro, Insured: True\n\nAll furniture at 5, Fake street:\nTV       - Volume: 5 m3, Value: 791 Euro, Insured: False\nSofa     - Volume: 4 m3, Value: 915 Euro, Insured: True\nFridge   - Volume: 2 m3, Value: 362 Euro, Insured: True\nComputer - Volume: 3 m3, Value: 983 Euro, Insured: True\nLamp     - Volume: 6 m3, Value: 709 Euro, Insured: True\nCupboard - Volume: 9 m3, Value: 250 Euro, Insured: True\n" +
-                      "----------------------------------------------------------\nItems above 500 at 10, Fake street:\nSofa     - Volume: 6 m3, Value: 678 Euro, Insured: False\nLamp     - Volume: 5 m3, Value: 872 Euro, Insured: False\nComputer - Volume: 4 m3, Value: 940 Euro, Insured: False\nLamp     - Volume: 6 m3, Value: 992 Euro, Insured: True\n\nAll furniture at 10, Fake street:\n" +
-                      "Lamp     - Volume: 6 m3, Value: 992 Euro, Insured: True\nComputer - Volume: 4 m3, Value: 940 Euro, Insured: False\nDesk     - Volume: 1 m3, Value: 268 Euro, Insured: True\nSofa     - Volume: 6 m3, Value: 678 Euro, Insured: False\nChair    - Volume: 3 m3, Value: 408 Euro, Insured: False\nDesk     - Volume: 5 m3, Value: 207 Euro, Insured: True\nFridge   - Volume: 5 m3, Value: 403 Euro, Insured: True\n" +
-                      "Table    - Volume: 2 m3, Value: 469 Euro, Insured: False\nComputer - Volume: 3 m3, Value: 275 Euro, Insured: False\nLamp     - Volume: 5 m3, Value: 872 Euro, Insured: False\nCupboard - Volume: 9 m3, Value: 500 Euro, Insured: True\n----------------------------------------------------------\nItems above 750 at 15, Fake street:\nComputer - Volume: 3 m3, Value: 850 Euro, Insured: False\nComputer - Volume: 2 m3, Value: 905 Euro, Insured: False\nComputer - Volume: 5 m3, Value: 828 Euro, Insured: True\nTV       - Volume: 5 m3, Value: 943 Euro, Insured: True\nLamp     - Volume: 2 m3, Value: 999 Euro, Insured: True\n\n" +
-                      "All furniture at 15, Fake street:\nComputer - Volume: 2 m3, Value: 905 Euro, Insured: False\nChair    - Volume: 6 m3, Value: 253 Euro, Insured: False\nLamp     - Volume: 2 m3, Value: 999 Euro, Insured: True\nComputer - Volume: 5 m3, Value: 828 Euro, Insured: True\nTV       - Volume: 5 m3, Value: 212 Euro, Insured: False\nTable    - Volume: 3 m3, Value: 586 Euro, Insured: True\nComputer - Volume: 3 m3, Value: 850 Euro, Insured: False\nTV       - Volume: 5 m3, Value: 943 Euro, Insured: True\nDesk     - Volume: 4 m3, Value: 399 Euro, Insured: True\nLamp     - Volume: 2 m3, Value: 268 Euro, Insured: True\n" +
-                      "Computer - Volume: 5 m3, Value: 667 Euro, Insured: False\nSofa     - Volume: 6 m3, Value: 159 Euro, Insured: False\nComputer - Volume: 1 m3, Value: 234 Euro, Insured: True\nComputer - Volume: 6 m3, Value: 541 Euro, Insured: True\nComputer - Volume: 4 m3, Value: 302 Euro, Insured: False\nCupboard - Volume: 9 m3, Value: 750 Euro, Insured: True\n----------------------------------------------------------";
+    string result = "";
+    string expected = "";
+    StringWriter expectedStringWriter = new StringWriter();
+    StringWriter resultStringWriter = new StringWriter();
 
-    using (StringWriter stringWriter = new StringWriter())
+    Console.SetOut(expectedStringWriter);
+    Console.WriteLine("Testing GetFurnitureAboveValue");
+
+    Console.SetOut(resultStringWriter);
+    Console.WriteLine("Testing GetFurnitureAboveValue");
+
+    for (int i = 5; i <= 15; i += 5)
     {
-      Console.SetOut(stringWriter);
+      var furniture = GenerateFurnitureList(i);
 
-      mPrintLINQHouse_GetFurnitureAboveValue();
+      Console.SetOut(expectedStringWriter);
+      mExpectedPrintLINQHouse_GetFurnitureAboveValue(furniture, i);
+      expected += expectedStringWriter.ToString();
 
-      Console.SetOut(saved);
-      result = stringWriter.ToString();
+      Console.SetOut(resultStringWriter);
+      mPrintLINQHouse_GetFurnitureAboveValue(furniture, i);
+      result += resultStringWriter.ToString();
     }
+    Console.SetOut(saved);
 
-    bool final = result.Replace(Environment.NewLine, "") == expected.Replace("\n", "");
+    bool final = result == expected;
 
-    if (final) {
+    if (final)
+    {
       Console.WriteLine("\x1b[92mEnum \"TotalInsuredValue() (LINQ) (House)\" has been implemented correctly\x1b[39m");
-    } else {
+    }
+    else
+    {
       Console.WriteLine($"\x1b[91mEnum \"TotalInsuredValue() (LINQ) (House)\" has not been implemented correctly\nExpected:\n{expected}\n\nActual:\n{result}\x1b[39m");
     }
 
     return final;
   }
 
-  private static void mPrintLINQHouse_TotalInsuredValue()
-  { 
-    Console.WriteLine("Testing TotalInsuredValue");
-        for (int i = 3; i <= 13; i += 5)
-        {
-            var furniture = GenerateFurnitureList(i);
-            House home = new(i + ", Fake street", furniture);
-            Console.WriteLine($"Total cost of insured furniture items: {home.TotalInsuredValue()}");
-            Console.WriteLine($"All furniture at {home.Address}: ");
-            Console.WriteLine(string.Join("\n", home.FurnitureList));
-            Console.WriteLine();
-        }
+  private static void mPrintLINQHouse_TotalInsuredValue(List<Furniture> furniture, int count)
+  {
+    House home = new(count + ", Fake street", furniture);
+    Console.WriteLine($"Total cost of insured furniture items: {home.TotalInsuredValue()}");
+    Console.WriteLine($"All furniture at {home.Address}: ");
+    Console.WriteLine(string.Join("\n", home.FurnitureList));
+    Console.WriteLine();
   }
 
-  private static void mPrintLINQHouse_GetFurnitureAboveValue()
+  private static void mExpectedPrintLINQHouse_TotalInsuredValue(List<Furniture> furniture, int count)
   {
-    Console.WriteLine("Testing GetFurnitureAboveValue");
-    for (int i = 5; i <= 15; i += 5)
-    {
-      var furniture = GenerateFurnitureList(i);
-      furniture.Add(new Furniture("Cupboard", 9, i * 50, true));
-      House home = new(i + ", Fake street", furniture);
-      Console.WriteLine($"Items above {i * 50} at {home.Address}:");
-      Console.WriteLine($"{string.Join("\n", home.GetFurnitureAboveValue(i * 50))}");
+    ExpectedHouse expectedHome = new(count + ", Fake street", furniture);
+    Console.WriteLine($"Total cost of insured furniture items: {expectedHome.TotalInsuredValue()}");
+    Console.WriteLine($"All furniture at {expectedHome.Address}: ");
+    Console.WriteLine(string.Join("\n", expectedHome.FurnitureList));
+    Console.WriteLine();
+  }
 
-      Console.WriteLine($"\nAll furniture at {home.Address}: ");
-      Console.WriteLine(string.Join("\n", home.FurnitureList));
-      Console.WriteLine("----------------------------------------------------------");
-    }
+  private static void mPrintLINQHouse_GetFurnitureAboveValue(List<Furniture> furniture, int count)
+  {
+    // furniture.Add(new Furniture("Cupboard", 9, count * 50, true));
+    House home = new(count + ", Fake street", furniture);
+    Console.WriteLine($"Items above {count * 50} at {home.Address}:");
+    Console.WriteLine($"{string.Join("\n", home.GetFurnitureAboveValue(count * 50))}");
+
+    Console.WriteLine($"\nAll furniture at {home.Address}: ");
+    Console.WriteLine(string.Join("\n", home.FurnitureList));
+    Console.WriteLine("----------------------------------------------------------");
+  }
+   
+  private static void mExpectedPrintLINQHouse_GetFurnitureAboveValue(List<Furniture> furniture, int count)
+  {
+    furniture.Add(new Furniture("Cupboard", 9, count * 50, true));
+    ExpectedHouse home = new(count + ", Fake street", furniture);
+    Console.WriteLine($"Items above {count * 50} at {home.Address}:");
+    Console.WriteLine($"{string.Join("\n", home.GetFurnitureAboveValue(count * 50))}");
+
+    Console.WriteLine($"\nAll furniture at {home.Address}: ");
+    Console.WriteLine(string.Join("\n", home.FurnitureList));
+    Console.WriteLine("----------------------------------------------------------");
   }
 
   private static string GetFriendlyTypeName(Type type, object? provider = null)
@@ -456,23 +545,118 @@ public class LocalTestUtils
 
     return type.FullName ?? type.Name;
   }
-  private static void PrintFieldNotFoundInClass(Type clsType, string fieldName) => Console.WriteLine($"\x1b[91m(Class {clsType.Name}) field {fieldName} not found. (Are you sure it is a field and not a property?)\x1b[39m");
+
   private static void PrintPropertyNotFoundInClass(Type clsType, string propertyName) => Console.WriteLine($"\x1b[91m(Class {clsType.Name}) property {propertyName} not found. (Are you sure it is a property and not a field?)\x1b[39m");
+
   private static List<Furniture> GenerateFurnitureList(int count)
+  {
+    string[] names = ["Chair", "Table", "Sofa", "Bed", "Cabinet", "Desk", "Computer", "TV", "Lamp", "Fridge"];
+
+    List<Furniture> furnitureList = [];
+    for (int i = 0; i < count; i++)
     {
-        string[] names = ["Chair", "Table", "Sofa", "Bed", "Cabinet", "Desk", "Computer", "TV", "Lamp", "Fridge" ];
+      string name = names[_random.Next(names.Length)];
+      int volume = _random.Next(1, 7); // Random volume between 1 and 30 cubic meters
+      int value = _random.Next(100, 1000); // Random value between 50 and 1000 euros
+      bool isInsured = _random.Next(2) == 0; // Randomly true or false
 
-        List<Furniture> furnitureList = [];
-        for (int i = 0; i < count; i++)
-        {
-            string name = names[_random.Next(names.Length)];
-            int volume = _random.Next(1, 7); // Random volume between 1 and 30 cubic meters
-            int value = _random.Next(100, 1000); // Random value between 50 and 1000 euros
-            bool isInsured = _random.Next(2) == 0; // Randomly true or false
+      furnitureList.Add(new Furniture(name, volume, value, isInsured));
+    }
 
-            furnitureList.Add(new Furniture(name, volume, value, isInsured));
+    return furnitureList;
+  }
+}
+
+//Classes as they should be to function as they are required to pass the exam
+class ExpectedVan
+{
+  public ExpectedVanCapacity Capacity { get; set; }
+  public Stack<Furniture> Contents { get; set; }
+  public int UsedVolume { get; set; }
+
+  public ExpectedVan(ExpectedVanCapacity capacity)
+  {
+    Capacity = capacity;
+    Contents = new Stack<Furniture>();
+    UsedVolume = 0;
+  }
+
+  public bool Load(Furniture furniture)
+  {
+    if (furniture.Volume + UsedVolume <= (int)Capacity)
+    {
+      Contents.Push(furniture);
+      UsedVolume += furniture.Volume;
+      return true;
+    }
+    return false;
+  }
+
+  public List<Furniture> Unload()
+  {
+    List<Furniture> returnValue = new List<Furniture>();
+    while (Contents.Count != 0)
+    {
+      Furniture currentItem = Contents.Peek();
+      UsedVolume -= currentItem.Volume;
+      returnValue.Add(currentItem);
+      Contents.Pop();
+    }
+
+    return returnValue;
+  }
+
+  public override string ToString()
+  {
+    string contentOfVan = "";
+    foreach (Furniture item in Contents)
+    {
+      if (contentOfVan != "")
+      {
+        contentOfVan += " ";
+      }
+      contentOfVan += item.Name;
+    }
+
+    return $"Capacity: {(int)Capacity}\n" +
+            $"Used: {UsedVolume}\n" +
+            $"Contents: {contentOfVan}";
+  }
+}
+
+enum ExpectedVanCapacity
+{
+  Small = 15,
+  Medium = 20,
+  Large = 30
+}
+
+class ExpectedHouse
+{
+    public string Address { get; private set; }
+    public readonly List<Furniture> FurnitureList;
+
+    public ExpectedHouse(string address, List<Furniture> furnitureList)
+    {
+        Address = address;
+        FurnitureList = furnitureList;
+    }
+
+    public int TotalInsuredValue()
+    {
+        List<Furniture> insuredItems = FurnitureList.Where(f => f.IsInsured == true).ToList();
+        int returnValue = 0;
+
+        foreach (Furniture item in insuredItems) {
+            returnValue += item.Value;
         }
 
-        return furnitureList;
+        return returnValue;
+    }
+
+    public List<Furniture>? GetFurnitureAboveValue(int value)
+    {
+        List<Furniture>? returnValue = FurnitureList.Where(f => f.Value > value).OrderBy(f => f.Value).OrderBy(f => f.IsInsured).ToList();
+        return returnValue;
     }
 }

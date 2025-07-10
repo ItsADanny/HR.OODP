@@ -14,7 +14,8 @@ class House
         List<Furniture> insuredItems = FurnitureList.Where(f => f.IsInsured == true).ToList();
         int returnValue = 0;
 
-        foreach (Furniture item in insuredItems) {
+        foreach (Furniture item in insuredItems)
+        {
             returnValue += item.Value;
         }
 
@@ -26,4 +27,5 @@ class House
         List<Furniture>? returnValue = FurnitureList.Where(f => f.Value > value).OrderBy(f => f.Value).OrderBy(f => f.IsInsured).ToList();
         return returnValue;
     }
+    
 }
