@@ -1,6 +1,8 @@
 
 ![OODP logo](https://github.com/ItsADanny/HR.OODP/blob/main/HR.OODP-Banner.png?raw=true)
 
+[![Hogeschool Rotterdam Project](https://img.shields.io/badge/Hogeschool_Rotterdam-OODP_Object_Oriented_Design_&_Programming-cc0133.svg?logo=googlescholar&logoColor=cc0133)]()
+[![.NET version 8](https://img.shields.io/badge/version-8.0-purple.svg?logo=dotnet)]()
 
 # HR.OODP
 
